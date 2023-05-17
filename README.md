@@ -13,7 +13,6 @@ module "argo_cd" {
   git_organization = "easy-modules"
   stage = "dev"
   type_project = "demo"
-  stage = "dev"
   codepipeline_actions_permissions = []
   
   codepipeline_source = [{
