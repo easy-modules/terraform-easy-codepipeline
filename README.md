@@ -5,7 +5,7 @@ Terraform module to deploy Codepipeline
 ## Usage
 
 ```hcl
-module "argo_cd" {
+module "codepipeline" {
   source = "easy-modules/codepipeline/easy"
   
   app_codestar_connection_arn = "<CODESTAR CONNECTION ARN>"
