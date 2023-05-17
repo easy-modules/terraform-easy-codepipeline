@@ -93,5 +93,4 @@ No modules.
 | <a name="output_codepipeline_arn"></a> [codepipeline\_arn](#output\_codepipeline\_arn) | The ARN of the CodePipeline. |
 | <a name="output_codepipeline_id"></a> [codepipeline\_id](#output\_codepipeline\_id) | The ID of the CodePipeline. |
 | <a name="output_codepipeline_name"></a> [codepipeline\_name](#output\_codepipeline\_name) | The name of the CodePipeline. |
-
 <!-- END OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
